@@ -1,5 +1,5 @@
 Out-of-touch Actuarial Maths and Data Scientist.  
-Turned into a Big4 IT-Con/Enterprise Data Engineer by my corporate overlords.  
+Big4 IT-Con/Enterprise Data Engineer as decreed by my corporate overlords.  
 Finance Domain Specialist.  
 Coffee-dependent.
 <!---
